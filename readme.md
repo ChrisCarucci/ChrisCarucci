@@ -12,7 +12,13 @@
 
 ## <p align="center">Proficiencies:🥇  </p>
 
-
+<p align="center">
+<strong>FrameWorks:   </strong>
+<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 <p align="center">
 <strong>Coding Languages:   </strong>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -29,13 +35,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDb&logoColor=darkgreen">
-</p>
-<p align="center">
-<strong>FrameWorks:   </strong>
-<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 <p align="center">
 <strong>Misc:     </strong>
