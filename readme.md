@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudinary-0827F5.svg?style=for-the-badge">
 </p>
 
 
