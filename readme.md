@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDb&logoColor=darkgreen">
+<img src="[https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDb&logoColor=darkgreen](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)">
 </p>
 <p align="center">
 <strong>Misc:     </strong>
