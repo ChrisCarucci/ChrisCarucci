@@ -7,7 +7,6 @@
 <br>
 <strong>Soimbiosis:</strong> A Mobile Game giving back to the community: www.Soimbiosis.com
 <br>
-<strong>Hacker Rank Profile(Currently on hold while doing AppAcademy):</strong> Hacker Rank: https://www.hackerrank.com/Chris_w_carucci
 
 
 ## <p align="center">Proficiencies:🥇  </p>
