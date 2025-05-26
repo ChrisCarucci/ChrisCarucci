@@ -4,9 +4,7 @@
 ## <p align="center">Some Recent Projects That Are Currently Live: 👀</p>
 
 <strong>AppAcademy NY Times Spoof Website: </strong> https://chriscarucci-nytimes-spoof.netlify.app/
-<br>
-<strong>Soimbiosis:</strong> A Mobile Game giving back to the community: www.Soimbiosis.com
-<br>
+
 
 
 ## <p align="center">Proficiencies:🥇  </p>
