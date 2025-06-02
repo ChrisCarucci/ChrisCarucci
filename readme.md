@@ -1,4 +1,4 @@
-# <p align="center">Hello, I'm Chris. 🤺</p>
+# <p align="center">Hello, I'm Chris. </p>
 
 
 ## <p align="center">Some Recent Projects That Are Currently Live: 👀</p>
