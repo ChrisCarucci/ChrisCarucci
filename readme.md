@@ -52,5 +52,6 @@ CS: Suricata, KQL, NMAP, Shell infil/exfil.
 <img src="https://tse4.mm.bing.net/th/id/OIP.TrMO9E4_36gDgQiIsTJCqAHaDg?rs=1&pid=ImgDetMain" width = "100" height = "50">
 <img src="https://www.datocms-assets.com/104397/1710826273-metasploit-framework-the-ultimate-guide-for-2024.png?auto=format" width = "100" height = "50">
 <img src="https://tse4.mm.bing.net/th/id/OIP.4UAs_FrX-UK5ON18lpXGPQHaEE?w=800&h=440&rs=1&pid=ImgDetMain" width = "100" height = "50">
+<img src="https://abrictosecurity.com/wp-content/uploads/2022/09/2022-09-14-gobuster-profile-pic-1.png" width = "100" height = "50">
 </p>
 
