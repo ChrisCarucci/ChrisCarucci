@@ -57,5 +57,6 @@ CS: Suricata, KQL, NMAP, Shell infil/exfil.
 <img src="https://tse4.mm.bing.net/th/id/OIP.4UAs_FrX-UK5ON18lpXGPQHaEE?w=800&h=440&rs=1&pid=ImgDetMain" width = "100" height = "50">
 <img src="https://abrictosecurity.com/wp-content/uploads/2022/09/2022-09-14-gobuster-profile-pic-1.png" width = "100" height = "50">
 <img src="https://media.licdn.com/dms/image/D5612AQE9AveArFt_nw/article-cover_image-shrink_600_2000/0/1674042770479?e=2147483647&v=beta&t=gG84lPtKT8-tct8GqGnte_HOxbqjtlOH4gZ6US1Fl_Y" width = "100" height = "50">
+<img src="https://th.bing.com/th/id/OIP.mZ4qsSJ_et6uhi0h1q8HXQHaFj?rs=1&pid=ImgDetMain" width = "100" height = "50">
 </p>
 
