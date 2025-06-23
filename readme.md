@@ -3,7 +3,10 @@
 
 ## <p align="center">Some Recent Projects That Are Currently Live: 👀</p>
 
-<strong>AppAcademy NY Times Spoof Website: </strong> https://chriscarucci-nytimes-spoof.netlify.app/
+<p align="center">
+<strong>AppAcademy NY Times Spoof Website: </strong> https://chriscarucci-nytimes-spoof.netlify.app/</strong>
+</p>
+
 
 
 
@@ -53,5 +56,6 @@ CS: Suricata, KQL, NMAP, Shell infil/exfil.
 <img src="https://www.datocms-assets.com/104397/1710826273-metasploit-framework-the-ultimate-guide-for-2024.png?auto=format" width = "100" height = "50">
 <img src="https://tse4.mm.bing.net/th/id/OIP.4UAs_FrX-UK5ON18lpXGPQHaEE?w=800&h=440&rs=1&pid=ImgDetMain" width = "100" height = "50">
 <img src="https://abrictosecurity.com/wp-content/uploads/2022/09/2022-09-14-gobuster-profile-pic-1.png" width = "100" height = "50">
+<img src="https://media.licdn.com/dms/image/D5612AQE9AveArFt_nw/article-cover_image-shrink_600_2000/0/1674042770479?e=2147483647&v=beta&t=gG84lPtKT8-tct8GqGnte_HOxbqjtlOH4gZ6US1Fl_Y" width = "100" height = "50">
 </p>
 
