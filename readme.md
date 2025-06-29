@@ -1,4 +1,5 @@
 # <p align="center">Hello, I'm Chris. </p>
+# <p align="center">I Convey and Articulate my Dreams into Reality </p>
 
 
 ## <p align="center">Some Recent Projects That Are Currently Live: 👀</p>
