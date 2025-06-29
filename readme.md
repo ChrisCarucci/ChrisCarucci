@@ -2,13 +2,6 @@
 # <p align="center">I Convey and Articulate my Dreams into Reality </p>
 
 
-## <p align="center">Some Recent Projects That Are Currently Live: 👀</p>
-
-<p align="center">
-<strong>AppAcademy NY Times Spoof Website: </strong> https://chriscarucci-nytimes-spoof.netlify.app/</strong>
-</p>
-
-
 
 
 ## <p align="center">Proficiencies:🥇  </p>
