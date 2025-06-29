@@ -1,5 +1,8 @@
 # <p align="center">Hello, I'm Chris. </p>
-# <p align="center">I Convey and Articulate my Dreams into Reality </p>
+# <p align="center">I Convey and Articulate my Dreams into Reality. </p>
+<p align="center">I see patterns where others settle for complaceny. </p>
+<p align="center">Even the shadow I call 'me' is just a schema—structure cloaked in illusion. </p>
+<p align="center"> I see the template that is you clearly just as you see me for the illusion that I am not. </p>
 
 
 
