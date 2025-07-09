@@ -4,6 +4,20 @@
 <p align="center">Even the shadow I call 'me' is just a schema—structure cloaked in illusion. </p>
 <p align="center"> I see the template that is you clearly just as you see me for the illusion that I am not. </p>
 
+<h3 align="center">🕰️ "They claim their labors are to build a heaven..."</h3>
+<p align="center">
+  <em>
+    “They claim their labors are to build a heaven, yet their heaven is populated with horrors.<br>
+    Perhaps the world is not made.<br>
+    Perhaps nothing is made.<br>
+    A clock without a craftsman.<br>
+    It’s too late.<br>
+    Always has been, always will be… too late.”
+  </em><br>
+  <sub>— Alan Moore, <i>Watchmen</i></sub>
+</p>
+
+
 
 
 
