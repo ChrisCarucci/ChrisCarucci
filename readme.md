@@ -4,7 +4,7 @@
 <p align="center">Even the shadow I call 'me' is just a schema—structure cloaked in illusion. </p>
 <p align="center"> I see the template that is you clearly just as you see me for the illusion that I am not. </p>
 
-<h3 align="center">🕰️ "They claim their labors are to build a heaven..."</h3>
+<h3 align="center">🕰️
 <p align="center">
   <em>
     “They claim their labors are to build a heaven, yet their heaven is populated with horrors.<br>
